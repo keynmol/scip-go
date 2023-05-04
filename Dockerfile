@@ -1,3 +1,3 @@
-FROM golang:1.20.3@sha256:bcc311ec9655c350df3899611fdf134806f97a3e3b2c06c2b5c0696428503814
+FROM golang:1.20.4@sha256:5099ad46335916ab90a4ce5ead4e01cb6eefc2f0296ef9f04af61b3e60f96c78
 
 COPY scip-go /usr/bin/
